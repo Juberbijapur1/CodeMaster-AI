@@ -1,0 +1,5 @@
+{
+  "name": "CodeMaster AI",
+  "description": "An AI-powered e-learning platform for developers. Get code explanations, refactoring suggestions, and answers to complex questions with Gemini. Features include a chatbot, image analysis, search-grounded research, and a deep-thinking mode for architectural problems.",
+  "requestFramePermissions": []
+}
